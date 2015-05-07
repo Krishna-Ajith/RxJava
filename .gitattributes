@@ -9,7 +9,7 @@
 *.clj text
 *.txt text
 *.md text
-
+dsc
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
